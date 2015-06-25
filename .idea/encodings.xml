@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/in/ac/iiitd/mindyourway/MainClasses/CameraActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/in/ac/iiitd/mindyourway/MainClasses/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/in/ac/iiitd/mindyourway/MainClasses/SensorActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/in/ac/iiitd/mindyourway/MainClasses/ServerActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/in/ac/iiitd/mindyourway/Others/Constants.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/in/ac/iiitd/mindyourway/Others/PreferencesData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/in/ac/iiitd/mindyourway/Others/RSFileWriter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/in/ac/iiitd/mindyourway/Sensors/AccelerometerResult.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/in/ac/iiitd/mindyourway/Sensors/AccelerometerSensor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/in/ac/iiitd/mindyourway/Sensors/GPSResult.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/in/ac/iiitd/mindyourway/Sensors/GPSSensor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/in/ac/iiitd/mindyourway/Sensors/GyroscopeResult.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/in/ac/iiitd/mindyourway/Sensors/GyroscopeSensor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/in/ac/iiitd/mindyourway/Sensors/OrientationResult.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/in/ac/iiitd/mindyourway/Sensors/OrientationSensor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/in/ac/iiitd/mindyourway/Server/ServerConnection.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/camera_main.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/dialog_stringinput.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/sensor_main.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/server_main.xml" charset="UTF-8" />
+  </component>
+</project>
